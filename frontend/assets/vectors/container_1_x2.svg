@@ -1,0 +1,14 @@
+<svg width="284" height="420" viewBox="0 0 284 420" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask_0_7_241" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="40" width="142" height="160">
+<path d="M21.224,77.008C22.79,56.136 40.181,40 61.112,40L244,40C266.092,40 284,57.909 284,80L284,320C284,342.092 266.092,360 244,360L43.112,360C19.842,360 1.484,340.214 3.224,317.008L21.224,77.008Z" fill="#C4C4C4"/>
+</mask>
+<mask id="mask_0_46_163" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="40" width="142" height="160">
+<path d="M21.224,77.008C22.79,56.136 40.181,40 61.112,40L244,40C266.092,40 284,57.909 284,80L284,320C284,342.092 266.092,360 244,360L43.112,360C19.842,360 1.484,340.214 3.224,317.008L21.224,77.008Z" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask_0_7_241)">
+<rect  x="0" y="0" width="283.08" height="419.313" fill="url(#pattern_0_7_247)"/>
+</g>
+<g mask="url(#mask_0_46_163)">
+<rect  x="0" y="0" width="283.08" height="419.313" fill="url(#pattern_0_46_164)"/>
+</g>
+</svg>

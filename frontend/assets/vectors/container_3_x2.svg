@@ -1,0 +1,24 @@
+<svg width="694" height="588" viewBox="0 0 694 588" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask_0_35_734" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0.213623" y="161.514526" width="162.524277" height="167.766983">
+<path d="M47.099,196.981C50.289,176.565 67.874,161.515 88.538,161.515L276.258,161.515C302.004,161.515 321.672,184.495 317.698,209.931L278.378,461.583C275.188,481.999 257.602,497.049 236.938,497.049L49.218,497.049C23.472,497.049 3.804,474.069 7.779,448.633L47.099,196.981Z" fill="#73ABFF"/>
+</mask>
+<mask id="mask_0_35_737" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="325.262207" y="161.514526" width="136.310684" height="167.766983">
+<path d="M370.234,197.235C373.314,176.703 390.951,161.515 411.712,161.515L555.942,161.515C579.106,161.515 597.884,180.292 597.884,203.456L597.884,455.107C597.884,478.271 579.106,497.049 555.942,497.049L373.964,497.049C348.323,497.049 328.683,474.243 332.487,448.885L370.234,197.235Z" fill="#03FF2B"/>
+</mask>
+<g filter="url(#filter35_692)">
+<path d="M693.231,310.408C693.231,427.384 592.081,522.214 467.305,522.214C342.529,522.214 241.379,427.384 241.379,310.408C241.379,193.431 342.529,98.602 467.305,98.602C592.081,98.602 693.231,193.431 693.231,310.408Z" fill="#FE53BB" fill-opacity="0.5"/>
+</g>
+<g mask="url(#mask_0_35_734)">
+<rect  x="6.505" y="104.653" width="325.049" height="481.693" fill="url(#pattern_0_35_735)"/>
+</g>
+<g mask="url(#mask_0_35_737)">
+<rect  x="293.806" y="0.039" width="352.311" height="528.466" fill="url(#pattern_0_35_738)"/>
+</g>
+<defs>
+<filter id="filter35_692" x="6.038864" y="-136.737991" width="696.605804" height="682.485428" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="117.669899" result="0foregroundblur"/>
+</filter>
+</defs>
+</svg>
